@@ -1,3 +1,4 @@
+write by md sakib
 # README
 
 This is an android application template project built with kotlin language and some useful libraries. It provides a creator script to quickly create an project from template.
